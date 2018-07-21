@@ -24,7 +24,7 @@ Anything that wouldn't be appropriate to look at in public will probably get rem
 ### 6. Do not spread misinformation or mislead others about concepts regarding the english language
 Misleading others and giving incorrect answers is not allowed. Don't act like you're knowledgeable about the language if you're not- and don't pretend to be a native when you're not. 
 
-Don't forget- this server's about learning the English language. If we can keep it at 50% 
+Don't forget- this server's about learning the English language. We don't mind joking around- just don't make it get in the way of people's learning.
 
 
 
