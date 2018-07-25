@@ -16,4 +16,4 @@ Be polite. Behave as you would in any social setting. Avoid using ethnic slurs o
 
 Some additional guidelines we encourage include:
 - **Post in the correct channel.** Each text channel has a purpose and we require everyone to follow this purpose for organization purposes.
-- **Keep fluff in #no-rules.** If you're here to spam and joke around, that's great- just keep it in the appropriate channels or we may take action. 
+- **Keep fluff in #no-rules.** If you're here to spam and mess around, that's fine- just keep it in the appropriate channels. We don't want to discourage or get in the way of those looking for genuine discussion. 
