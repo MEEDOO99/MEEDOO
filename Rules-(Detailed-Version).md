@@ -1,5 +1,5 @@
 ### 1. Listen to the Moderators.
-If a Moderator tells you to drop a subject or stop doing something, you need to stop. Even if something you're doing isn't explicitly against the rules, it still may be disruptive to other users. This is not an excuse not to listen to the Moderators- you still need to listen to them. If a Moderator's actions are questionable, you can message another member of staff later, but in that moment you need to comply. 
+If a Moderator tells you to drop a subject or stop doing something, you need to stop. Even if something you're doing isn't explicitly against the rules, it still may be disruptive to other users. This is not an excuse not to listen to the Moderators- you still need to listen to them. If a Moderator's actions are questionable, you can message another member of staff later on. 
 
 ### 2. Respect others. No disruptive/disorderly behavior.
 We classify any of the following as disruptive:
@@ -11,7 +11,10 @@ We classify any of the following as disruptive:
 Additionally, we ask that users choose appropriate nicknames and profile pictures and that they use the most appropriate channel for discussion (i.e. using #learning for asking questions). 
 
 ### 3. No spam/advertising.
-Anything that clogs up chat will get removed.
+Anything that clogs up chat will get removed, including:
+- Random links posted with no context (we assume these go to malware sites and remove them)
+- Gibberish
+- Multiple repeated messages 
 
 ### 4. Disturbing/graphic content is not allowed. NSFW content can only be posted in #no-rules, nowhere else.
 Anything that wouldn't be appropriate to look at in public will probably get removed. This includes images depicting gore or anything illegal. More mature content is allowed in #no-rules. Discussion in most channels should be kept around PG-13. 
