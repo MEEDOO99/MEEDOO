@@ -1,1 +1,1 @@
-f
+### 1. Obedece aos Moderadores. Se eles te mandem de deixar de fazer uma coisa, deixa. 
