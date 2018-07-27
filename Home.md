@@ -1,11 +1,11 @@
 Wiki for the Discord group.
 
-### Rules
+# Rules
 Copies of the rules in different languages.
 
-English (check #rules channel on the server)
+### English (check #rules channel on the server)
 
-Español
+### Español
 
-Português
+### Português
 
