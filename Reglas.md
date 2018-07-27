@@ -1,4 +1,4 @@
-### 1. Escucha a los Moderadores. Si ellos te manden a dejar de hacer una cosa, deja. 
+### 1. Obedece a los Moderadores. Si ellos te manden a dejar de hacer una cosa, deja. 
 - Nos reservamos el derecho de castigar a cualquier persona por cualquier razón
 - No discute con los Moderadores. Si tienes una queja, cuentanós y daremos nuestra opinión. Si ya hemos aclarado nuestra opinión, la conversación debe parar allí.
 
