@@ -1,3 +1,11 @@
-Welcome to the English wiki. This wiki will contain any important info pertaining to the Discord learning group.
+Wiki for the Discord group.
 
-Link to English server: https://discord.gg/RtuAAmv
+### Rules
+Copies of the rules in different languages.
+
+English (check #rules channel on the server)
+
+Español
+
+Português
+
