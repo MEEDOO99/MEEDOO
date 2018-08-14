@@ -1,3 +1,5 @@
+Thanks to rr#0541 for their help in correcting this!
+
 ### 1. Obedece a los Moderadores. Si ellos te mandan a dejar de hacer una cosa, deja de hacerla. 
 - Nos reservamos el derecho de castigar a cualquier persona por cualquier razón
 - No discute con los Moderadores. Si tienes una queja, cuentanós y daremos nuestra opinión. Si ya hemos aclarado nuestra opinión, la conversación debe parar allí.
