@@ -1,6 +1,12 @@
 1. Moderatörleri dinleyin. Eğer size bir şeyi yapmamanızı söylerlerse, yapmayın.
+
+
   •Biz sizi uygun gördüğümüz her sebepten dolayı cezalandırma hakkına sahibiz.
+
+
   •Moderatörlere itiraz etmeyin. Eğer bir şikayetiniz varsa bize bildirin ve biz düşüncemizi söyleriz. Eğer biz zaten düşüncemizi açıkça belirtmişsek, konuşma orda bitecek. 
+
+
 2. Diğerlerine saygı gösterin. Ahkalksız ve rahatsız edici davranışlarda bulunmayın.
   •Irkçılık yapmayın. Irklarla ilgili rahatsız edici tabirlerde bulunmayın
   •Discord Hizmet Kullanım Şartlarını ve Topluluk Ana Esaslarını takip edin. 
