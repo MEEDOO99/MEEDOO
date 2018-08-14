@@ -1,3 +1,5 @@
+Thank you to alpagu#2114 for the translation!
+
 ### 1. Moderatörleri dinleyin. Eğer size bir şeyi yapmamanızı söylerlerse, yapmayın.
 
 
