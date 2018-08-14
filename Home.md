@@ -11,7 +11,7 @@ Copies of the rules in different languages.
  
 [عربى](https://github.com/OracleNine/English/wiki/القواعد)
 
-[Kurallar](https://github.com/OracleNine/English/wiki/Kurallar)
+[Türkçe](https://github.com/OracleNine/English/wiki/Kurallar)
 
 # Report Tool
 Tool that helps users format their user reports.
