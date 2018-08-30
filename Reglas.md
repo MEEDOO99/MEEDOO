@@ -16,6 +16,7 @@ Thanks to rr#0541 for their help in correcting this!
 - Se puede postar contenido 18+ solo en el canal #no-rules, ningún otro canal.
 
 ### 5. Reglas para los canales de voz:
+- Es _necesario_ tener un rol para ser capaz de entrar en los canales de voz. Se puede coger un rol en el canal de [#assign-roles](https://discordapp.com/channels/363985050578190336/423821919134023680).
 - Solamente inglés está permitido. 
 - Ruido fuerte o disruptivo está prohibido.
 - Utilice pauses y deja a otros participar en la conversación.
