@@ -34,7 +34,7 @@ Wir können nicht alle Regeln für jede mögliche Situation aufstellen. Solange 
 
 Bitte kontaktiere die Moderatoren mit @Moderators, wenn jemand die Regeln bricht.
 
-Alternative Übersetzung:
+## Alternative Übersetzung:
 
 1.    Befolge die Anweisungen der Moderatoren/Administratoren. Wenn Sie dich bitten mit etwas aufzuhören, dann hör damit auf. Wir behalten uns das Recht vor, dich zu bestrafen, für jegliche Gründe, die wir als angemessen ansehen. Bitte streite/diskutiere nicht mit Moderatoren. Wenn du eine Beschwerde hast, teile uns diese mit und wir werden dir dazu unsere Meinung sagen. Wenn wir schon unsere Meinung mitgeteilt haben, unterlasse es bitte erneut einen Moderator/Administrator anzuschreiben
 2.    Respektier andere. Kein störendes/unhöfliches/unkonstruktives Verhalten. – Kein Rassismus oder Verwendung von rassistischen Beleidigungen, sowie jede andere Form von Belästigung.  Verhalten, dass andere in jeglicher Form einschränkt, ist zu unterlassen. Also: Sei nicht rücksichtslos und trage dazu bei bzw. sorge dafür, dass sich jeder wohlfühlt. Scherze werden akzeptiert, wenn jeder diesen zustimmt. Beachte und halte zudem auch die Discord TOS and Comunity Guidelines ein. – Posts von jeglichen Beiträgen und Inhalten nur in den korrekten Kanälen. Wähle einen angemessenen Nicknamen und Profilbild.
