@@ -19,6 +19,8 @@ Copies of the rules in different languages.
 
 [русский](https://github.com/OracleNine/English/wiki/Правила)
 
+[עִברִית](https://github.com/OracleNine/English/wiki/כללים)
+
 # Report Tool
 Tool that helps users format their user reports.
 https://oraclenine.github.io/English/
