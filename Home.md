@@ -1,6 +1,6 @@
-Wiki for the Discord group.
+English Learning Discord group.
 
-# Rules
+### Rules in other languages
 Copies of the rules in different languages.
 
 [English](https://github.com/OracleNine/English/wiki/Rules)
