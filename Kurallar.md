@@ -1,5 +1,3 @@
-Thank you to alpagu#2114 for the translation!
-
 ### 1. Moderatörleri dinleyin. Eğer size bir şeyi yapmamanızı söylerlerse, yapmayın.
 
 
@@ -42,3 +40,5 @@ Thank you to alpagu#2114 for the translation!
 Olası her durumu bu kurallar içine yazamayız. Eğer saygılısanız ve sağduyunuzu kullanarak paylaşım yapıyorsanız, yukardaki kuralların hiçbirini ihlal etme olasılığınız yoktur.
 
 Eğer kuralları ihlal eden birine rastgelirseniz lütfen @Moderators rolü olanları etiketleyin veya iletişime geçin.
+
+❤️ _alpagu#2114_
