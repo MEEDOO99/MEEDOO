@@ -1,4 +1,4 @@
-Thanks to rr#0541 for their help in correcting this!
+
 
 ### 1. Obedece a los Moderadores. Si ellos te mandan a dejar de hacer una cosa, deja de hacerla. 
 - Nos reservamos el derecho de castigar a cualquier persona por cualquier razón
@@ -24,3 +24,5 @@ Thanks to rr#0541 for their help in correcting this!
 ### 6. No difunda la desinformación o engañe a otros sobre la lengua inglesa
 - Dar respuestas equivocadas en #learning está prohibido.
 - No te des el rol de nativo si no lo eres.
+
+❤️ Corrected by: rr#0541 
