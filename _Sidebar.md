@@ -1,8 +1,7 @@
 # Navigation
 
 
-### Translations of the Rules
-[English](https://github.com/OracleNine/English/wiki/Rules)
+### Rules
  
 [Español](https://github.com/OracleNine/English/wiki/Reglas)
  
