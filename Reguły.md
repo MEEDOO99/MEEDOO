@@ -13,6 +13,7 @@ Reguły serwera:
  - Wybierz zdjęcie profilowe i pseudonim odpowiednio.
  - Żarty dookoła są dopuszczalne, gdy wszyscy się zgadzają. Nie bądź bezmyślny, lub spraw, by użytkownicy nie czuli się niekomfortowo.
 
+❤️ _Kuba#3379_
 3. Zero spamu / reklam.
 
 4. Niepożądane / graficzne treści są niedozwolone. Treści NSFW można publikować tylko w #nsfw, nigdzie indziej.
