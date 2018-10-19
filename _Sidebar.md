@@ -21,4 +21,4 @@
 
 ### Other
 
-[Moderator Phrasebook](https://github.com/OracleNine/English/wiki/phrasebook)
+[Moderator Phrasebook]
