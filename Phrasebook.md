@@ -1,8 +1,6 @@
 
-Please speak English in this channel, you can use #other-languages to speak Turkish - Turkish
-`:octagonal_sign: **Lütfen bu kanalda İngilizce konuşunuz**. Türkçe konuşmak istiyorsanız #other-languges kanalını kullanılabilirsiniz.`
+### Telling people to speak English
+`:octagonal_sign: **Lütfen bu kanalda İngilizce konuşunuz**. Türkçe konuşmak istiyorsanız #other-languges kanalını kullanılabilirsiniz.` - Turkish
 
 
-Please speak English - French
-
-`:octagonal_sign: **Parlez anglais dans ce salon, s'il vous plaît.**`
+`:octagonal_sign: **Parlez anglais dans ce salon, s'il vous plaît.**` - French
