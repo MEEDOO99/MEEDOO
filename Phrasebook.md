@@ -4,4 +4,5 @@ Please speak English in this channel, you can use #other-languages to speak Turk
 
 
 Please speak English - French
+
 `:octagonal_sign: **Parlez anglais dans ce salon, s'il vous plaît.**`
