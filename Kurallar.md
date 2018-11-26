@@ -21,7 +21,7 @@
 
 ### 4. Rahatsız edici fotoğraf/içerik yasak.
 
- •NSFW içerikli gönderiler sadece #no-rules kanalına gönderilebilir. Başka yerlere kesinlikle gönderilemez.
+ •NSFW içerikli gönderiler sadece #adult kanalına gönderilebilir. Başka yerlere kesinlikle gönderilemez.
 
 ### 5. Ses kanalları:
 
@@ -33,7 +33,7 @@
 
 ### 6. Yanlış bilgi yaymayın ve diğerlerini İngilizce ile alakalı yanlış yönlendirmeyin.
 
-  •#learning de bilerek veya bilmeden yanlış cevap vermek yasak.
+  •#english-questions de bilerek veya bilmeden yanlış cevap vermek yasak.
 
   •Eğer ana diliniz değilse kendinize o dilde "native" rolünü vermeyin.
 
