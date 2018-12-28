@@ -3,11 +3,14 @@
 Detailed version of the rules.
 
 # **Section A - Staff Powers**
-A1. Staff (those with the 'Staff' role on the server) are the only users who may enforce the rules.
+### A1. Exclusive Privilege
+Staff (those with the 'Staff' role on the server) are the only users who may enforce the rules. Users who do not have the 'staff' role are discouraged from trying to moderate other users.
 
-A2. If a staff member makes a verdict about a situation, it is final. It is no longer up for debate and users should drop the subject. If a user is not satisfied with the Moderators' verdict, they may approach a higher staff member in private messages.
+###A2. Final Verdict
+If a staff member makes a verdict about a situation, it is final. It is no longer up for debate and users should drop the subject. If a user is not satisfied with the Moderators' verdict, they may approach a higher staff member in private messages.
 
-A3. The moderation team reserves the right to block problematic users from joining the server.
+### A3. Catch-all 
+The moderation team reserves the right to block problematic users from joining the server. It is not possible for me, or anyone, to list every single situation where a user might cause problems. 
 
 # **Section B - General Server Rules**
 These rules apply to all chat channels as well as nicknames.
