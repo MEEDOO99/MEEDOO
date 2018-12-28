@@ -31,6 +31,9 @@ Any discussions that are dark, crude, or explicit in nature (but do not involve 
 ### B6. Discord Terms of Service
 Any content that violates the Discord Terms of Service (https://discordapp.com/terms) is prohibited. 
 
+### B7. Advertising
+Advertising one's website, discord server, or other service is prohibited. Sending someone a link to a server is only permissible if the user requested the link beforehand. 
+
 
 
 
