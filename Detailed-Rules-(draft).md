@@ -6,7 +6,7 @@ Detailed version of the rules.
 ### A1. Exclusive Privilege
 Staff (those with the 'Staff' role on the server) are the only users who may enforce the rules. Users who do not have the 'staff' role are discouraged from trying to moderate other users.
 
-###A2. Final Verdict
+### A2. Final Verdict
 If a staff member makes a verdict about a situation, it is final. It is no longer up for debate and users should drop the subject. If a user is not satisfied with the Moderators' verdict, they may approach a higher staff member in private messages.
 
 ### A3. Catch-all 
