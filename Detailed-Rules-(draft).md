@@ -32,7 +32,7 @@ Any discussions that are dark, crude, or explicit in nature (but do not involve 
 Any content that violates the Discord Terms of Service (https://discordapp.com/terms) is prohibited. 
 
 ### B7. Advertising
-Advertising one's website, discord server, or other service is prohibited. Sending someone a link to a server is only permissible if the user requested the link beforehand. 
+Advertising is repeatedly posting a link to a chat group with the intent of garnering more members. Advertising is prohibited both on the server and in DMs, as it is against the Discord Terms of Service. The only time advertising in DMs is allowed is if the user receiving the message asked for the link beforehand. 
 
 
 
