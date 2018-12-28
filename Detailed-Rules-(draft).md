@@ -2,33 +2,26 @@
 
 Detailed version of the rules.
 
-### **Staff Powers**
-1. Staff and only staff may enforce the rules.
-a. Anyone with the 'Staff' role is allowed to enforce the rules and moderate users if they do not comply. Those who do not have the 'Staff' role may not enforce the rules- they should notify a member of Staff via the #report-users channel and wait. 
+### **Section A - Staff Powers**
+A1. Staff (those with the 'Staff' role on the server) are the only users who may enforce the rules.
 
-2. Staff have the final say.
-a. A staff member's verdict on a situation is final. Only a higher member of staff may change this verdict. 
+A2. If a staff member makes a verdict about a situation, it is final. It is no longer up for debate and users should drop the subject. If a user is not satisfied with the Moderators' verdict, they may approach a higher staff member in private messages.
 
-b. The moderation team reserves the right to block problematic users from accessing the server.
+A3. The moderation team reserves the right to block problematic users from joining the server.
 
-3. All staff are subject to the rules.
-a. Staff must obey the rules as well.
+### **Section B - General Server Rules**
+These rules apply to all chat channels as well as nicknames.
 
-### **Server Behaviour**
+B1. Users should be polite and respectful when interacting with one another. Attacking other users, both on the server and in DM, is prohibited.
 
-1. Correct channel usage.
-a. Any overtly explicit discussion (including topics such as sex) must go in either the #off-topic channel or the #adult channel.
+B2. The use of slurs is prohibited, regardless of context. A slur is any term meant to demean or cause offense to a certain group, based on gender, race, sexuality, etc. 
 
-b. Pornographic content can **only** be posted in the #adult channel and nowhere else.
+B3. Rapidly flooding a channel with messages (called 'spam') is prohibited. 
 
-c. Anything posted in a channel must be relevant to its' purpose, which can be found in the channel description. 
+B4. To keep things organized, each channel has a specific purpose, which can be found through the channel description. Repeatedly using the wrong channel to start off-topic conversations is prohibited.
 
-`For example, the #english-questions channel is only for asking questions regarding the English language, and nothing else.`
+B4-1. Any mildly explicit conversations (involving topics such as sex) should be brought to the "#off-topic" channel.
+B4-2. All pornographic content can **only** be posted in #adult, nowhere else.
 
-2. General Behaviour.
 
-a. Be polite & respectful when interacting with other users on the server.
 
-b. Do not stir the server up by being overly aggressive, starting provocative discussions, or provoking other users.
-
-c. 
