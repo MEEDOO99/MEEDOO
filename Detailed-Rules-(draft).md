@@ -34,6 +34,17 @@ Any content that violates the Discord Terms of Service (https://discordapp.com/t
 ### B7. Advertising
 Advertising is repeatedly posting a link to a chat group with the intent of garnering more members. Advertising is prohibited both on the server and in DMs, as it is against the Discord Terms of Service. The only time advertising in DMs is allowed is if the user receiving the message asked for the link beforehand. 
 
+# **Section C - Learning Channels**
+
+### C1. Answering questions.
+Giving the wrong answer to a question asked in #english-questions is prohibited, intentionally or not. If you do not know the answer to a question or are unsure, do not answer.
+
+`Reasoning: The problem is, even if another more knowledgeable user comes by and answers the question correctly, the user who asked the question will be confused by the conflicting responses.`
+
+### C2. Impersonating a native
+Do not pretend to be a native speaker of the english language. The official server definition of a 'native speaker' can be found below:
+
+`Native - a person who learned to speak the language of the place where he or she was born as a child rather than learning it as a foreign language`
 
 
 
