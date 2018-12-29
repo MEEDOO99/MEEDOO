@@ -41,9 +41,7 @@ Advertising is repeatedly posting a link to a chat group with the intent of garn
 # **Section C - Learning Channels**
 
 ### C1. Answering questions.
-Giving the wrong answer to a question asked in #english-questions is prohibited, intentionally or not. If you do not know the answer to a question or are unsure, do not answer.
-
-`Reasoning: The problem is, even if another more knowledgeable user comes by and answers the question correctly, the user who asked the question will be confused by the conflicting responses.`
+Giving an intentionally wrong answer to a question asked in #english-questions is prohibited. Educated guesses are allowed, but must be phrased as such. You may not definitively assert you are correct when you are making an educated guess.
 
 ### C2. Impersonating a native
 Do not pretend to be a native speaker of the english language. The official server definition of a 'native speaker' can be found below:
@@ -63,7 +61,6 @@ If a user is being uncooperative while using the music bot (for example, if they
 
 ### D4. Abuse of the DJ role
 If a user is using their role as a DJ to prevent other users from utilizing the music bot properly, they are liable to have their role taken away from them. (For example, if a DJ were to skip songs except those queued by him)
-
 
 
 
