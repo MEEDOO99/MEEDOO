@@ -26,7 +26,7 @@ Flooding a channel with messages (called 'spam') is prohibited. Content such as 
 Each channel functions like a 'category' on traditional internet forums. Only things related to the main topic of that channel can be posted there.       
 **B4-1.** A channel's topic can be found next to its' name, pictured below. The description can be clicked on to reveal the full text.  
 ![](https://i.imgur.com/5e79jzg.png)
-**B4-2.** Controversial topics should be rerouted to "#politics-and-debate".
+**B4-2.** Controversial topics should be rerouted to "#politics-and-debate".     
 **B4-3.** A 'debate' is a discussion where one user is trying to convince another user of their viewpoint. These should be redirected to the "#politics-and-debate" channel.
 
 ### B5. Posting explicit content
