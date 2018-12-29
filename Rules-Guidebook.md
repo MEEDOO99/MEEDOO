@@ -38,6 +38,11 @@ Any content that violates the Discord Terms of Service (https://discordapp.com/t
 ### B7. Advertising
 Advertising is repeatedly posting a link to a chat group with the intent of garnering more members. Advertising is prohibited both on the server and in DMs, as it is against the Discord Terms of Service. The only time advertising in DMs is allowed is if the user receiving the message asked for the link beforehand. 
 
+### B8. Use of English
+In all of the main chat channels except the "#other-languages" text channel and the "Other Languages" voice channel, English should be the primary language used to communicate.
+
+Speaking other languages repeatedly in other channels besides the two listed above, is prohibited.
+
 # **Section C - Learning Channels**
 
 ### C1. Answering questions.
