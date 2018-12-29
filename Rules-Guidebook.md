@@ -29,7 +29,7 @@ Each channel functions like a 'category' on traditional internet forums. Only th
 **B4-2.** Controversial topics should be rerouted to "#politics-and-debate".
 
 ### B5. Posting explicit content
-Any discussions that are dark, crude, or explicit in nature (but do not involve posting pornography) must be posted in the "#off-topic" channel. Any pornography or 18+ content can _only_ be posted in the "#adult" channel. Content that is graphic or disturbing (such as gore) is prohibited altogether.
+Any discussions that are dark, crude, or explicit in nature (but do not involve posting pornography) must be posted in the "#off-topic" channel. Any pornography or 18+ content can _only_ be posted in the "#adult" channel. Content that is graphic or disturbing (such as gore) is prohibited entirely.
 
 ### B6. Discord Terms of Service
 Any content that violates the Discord Terms of Service (https://discordapp.com/terms) is prohibited. 
