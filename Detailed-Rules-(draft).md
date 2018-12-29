@@ -1,3 +1,5 @@
+
+
 # **Section A - Staff Powers**
 ### A1. Exclusive Privilege
 Staff (those with the 'Staff' role on the server) are the only users who may enforce the rules. Users who do not have the 'staff' role are discouraged from trying to moderate other users.
