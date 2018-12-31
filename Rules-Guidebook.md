@@ -15,7 +15,7 @@ These rules apply server-wide, including in text channels, voice channels, and n
 
 ### B1. Personal Attacks
 Users should be polite and respectful when interacting with one another. Attacking other users, both on the server and in DM, is prohibited.    
-**B1-1.** Joking is OK when everyone is in agreement. Therefore, 'joking' is not a valid excuse unless the other party feels comfortable with it. 
+**B1-1.** Joking is OK when everyone is in agreement. 
 
 ### B2. Use of slurs/derogatory terms
 The use of slurs is prohibited, regardless of context. A slur is any term meant to demean or cause offense to a certain group, based on gender, race, sexuality, etc. 
