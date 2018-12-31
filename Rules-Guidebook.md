@@ -14,7 +14,7 @@ The moderation team reserves the right to block problematic users from joining t
 These rules apply server-wide, including in text channels, voice channels, and nicknames. 
 
 ### B1. Personal Attacks
-Users should be polite and respectful when interacting with one another. Attacking other users, both on the server and in DM, is prohibited.
+Users should be polite and respectful when interacting with one another. Attacking other users, both on the server and in DM, is prohibited.    
 **B1-1.** Joking is OK when everyone is in agreement. Therefore, 'joking' is not a valid excuse unless the other party feels comfortable with it. 
 
 ### B2. Use of slurs/derogatory terms
