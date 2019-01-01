@@ -11,11 +11,12 @@ If a staff member makes a verdict about a situation, it is final. It is no longe
 The moderation team reserves the right to block problematic users from joining the server. It is not possible for me, or anyone, to list every single situation where a user might cause problems. 
 
 # **Section B - General Server Rules**
-These rules apply server-wide, including in text channels, voice channels, and nicknames. 
+These rules apply server-wide and can include but are not limited to text channels, voice channels, direct message, nicknames, playing status, etc...
 
-### B1. Personal Attacks
+### B1. Harassment of users & groups
 Users should be polite and respectful when interacting with one another. Attacking other users, both on the server and in DM, is prohibited.    
-**B1-1.** Joking is OK when everyone is in agreement. 
+**B1-1.** Joking is OK when everyone is in agreement.
+**B1-2.** This rule also encompasses hate speech, or denouncing a group based on their gender, race, sexuality, etc.  
 
 ### B2. Use of slurs/derogatory terms
 The use of slurs is prohibited, regardless of context. A slur is any term meant to demean or cause offense to a certain group, based on gender, race, sexuality, etc. 
@@ -31,7 +32,7 @@ Each channel functions like a 'category' on traditional internet forums. Only th
 **B4-3.** A 'debate' is a discussion where one user is trying to convince another user of their viewpoint. These should be redirected to the "#politics-and-debate" channel.
 
 ### B5. Posting explicit content
-Any discussions that are dark, crude, or explicit in nature (but do not involve posting pornography) must be posted in the "#off-topic" channel. Any pornography or 18+ content can _only_ be posted in the "#adult" channel. Content that is graphic or disturbing (such as gore) is prohibited entirely.
+Any discussions that are dark, crude, or explicit in nature (but do not involve posting pornography) must be posted in the "#off-topic" channel. Any pornographic or 18+ content can _only_ be posted in the "#adult" channel. Content that is graphic or disturbing (such as gore) is prohibited entirely.
 
 ### B6. Discord Terms of Service
 Any content that violates the Discord Terms of Service (https://discordapp.com/terms) is prohibited. 
