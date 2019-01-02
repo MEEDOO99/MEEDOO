@@ -13,6 +13,9 @@ Different translations of the rules.
 * [Правила](https://github.com/OracleNine/English/wiki/Правила)
 * [כללים](https://github.com/OracleNine/English/wiki/כללים)
 
+# Moderator Tools
+* [Moderator Phrasebook](https://oraclenine.github.io/English/)
+
 
 
 
