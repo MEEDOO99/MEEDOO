@@ -13,7 +13,7 @@
 ### 3. Spam y la publicidad de otros servidores están prohibidos.
 
 ### 4. El contenido perturbante y/o gráfico está prohibido. 
-- Se puede postar contenido 18+ solo en el canal #no-rules, ningún otro canal.
+- Se puede postar contenido 18+ solo en el canal #adult, ningún otro canal.
 
 ### 5. Reglas para los canales de voz:
 - Es _necesario_ tener un rol para ser capaz de entrar en los canales de voz. Se puede coger un rol en el canal de [#assign-roles](https://discordapp.com/channels/363985050578190336/423821919134023680).
