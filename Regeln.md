@@ -27,7 +27,7 @@
 
 ### 6.  Verbreite keine Fehlinformationen weiter und führe andere nicht in die Irre, was die englische Sprache betrifft.
 
-- Falsche Antworten in #questions zu geben ist nicht erlaubt, auch nicht unbeabsichtigt.
+- Falsche Antworten in [#english-questions](https://discordapp.com/channels/363985050578190336/423813514394861579) zu geben ist nicht erlaubt, auch nicht unbeabsichtigt.
 - Gib Dir selbst nicht die Muttersprachler-Rolle, wenn Du keiner bist.
 
 Wir können nicht alle Regeln für jede mögliche Situation aufstellen. Solange Du respekvoll bist und mit einem gesunden Menschenverstand handelst, besteht fast keine Chance, dass Du eine der obengenannten Regeln brichst.
