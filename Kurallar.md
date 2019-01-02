@@ -33,7 +33,7 @@
 
 ### 6. Yanlış bilgi yaymayın ve diğerlerini İngilizce ile alakalı yanlış yönlendirmeyin.
 
-  •#english-questions de bilerek veya bilmeden yanlış cevap vermek yasak.
+  •[#english-questions](https://discordapp.com/channels/363985050578190336/423813514394861579) de bilerek veya bilmeden yanlış cevap vermek yasak.
 
   •Eğer ana diliniz değilse kendinize o dilde "native" rolünü vermeyin.
 
