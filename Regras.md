@@ -21,7 +21,7 @@
  - Dê uma pequena pausa e deixe as outras pessoas participarem da conversa também.
 
 ### 6. Não divulgue informações errôneas nem engane os outros sobre conceitos relacionados ao idioma inglês.
- - Dar respostas incorretas em #questions não é permitido, seja intencionalmente ou não. 
+ - Dar respostas incorretas em [#english-questions](https://discordapp.com/channels/363985050578190336/423813514394861579) não é permitido, seja intencionalmente ou não. 
  - Não se dê o cargo de Nativo se você não é um falante nativo.
 
 ❤️ _Obrigado á Walli#6665 por essa tradução!_
