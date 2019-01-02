@@ -18,7 +18,3 @@
 [русский](https://github.com/OracleNine/English/wiki/Правила)
 
 [עִברִית](https://github.com/OracleNine/English/wiki/כללים)
-
-### Other
-
-[Moderator Phrasebook]
