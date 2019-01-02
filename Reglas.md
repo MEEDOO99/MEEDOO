@@ -22,7 +22,7 @@
 - Utilice pauses y deja a otros participar en la conversación.
 
 ### 6. No difunda la desinformación o engañe a otros sobre la lengua inglesa
-- Dar respuestas equivocadas en #learning está prohibido.
+- Dar respuestas equivocadas en #english-questions está prohibido.
 - No te des el rol de nativo si no lo eres.
 
 ❤️ _Corrected by: rr#0541_
