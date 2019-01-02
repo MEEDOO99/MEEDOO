@@ -8,28 +8,44 @@ Staff (those with the 'Staff' role on the server) are the only users who may enf
 If a staff member makes a verdict about a situation, it is final. It is no longer up for debate and users should drop the subject. If a user is not satisfied with the Moderators' verdict, they may approach a higher staff member in private messages.
 
 ### A3. Catch-all 
-The moderation team reserves the right to block problematic users from joining the server. It is not possible for me, or anyone, to list every single situation where a user might cause problems. 
+The moderation team reserves the right to block problematic users from joining the server. It is not possible for me, or anyone, to list every single situation where a user might cause problems. If we deem a user to have malicious intentions, they will be removed by the staff team.
 
 # **Section B - General Server Rules**
 These rules apply server-wide and can include but are not limited to text channels, voice channels, direct message, nicknames, playing status, etc...
 
 ### B1. Harassment of users & groups
 Users should be polite and respectful when interacting with one another. Attacking other users, both on the server and in DM, is prohibited.    
+
+
 **B1-1.** Joking is OK when everyone is in agreement.
+
+
 **B1-2.** This rule also encompasses hate speech, or denouncing a group based on their gender, race, sexuality, etc.  
 
 ### B2. Use of slurs/derogatory terms
-The use of slurs is prohibited, regardless of context. A slur is any term meant to demean or cause offense to a certain group, based on gender, race, sexuality, etc. 
+The use of slurs is prohibited, regardless of context. A slur is any term meant to demean or cause offense to a certain group, based on gender, race, sexuality, etc.
+
+
+`Even if there is no mal-intent, using slurs often makes people feel uncomfortable or attacked. To new users who join into a conversation where slurs are being used often, it may discourage them from staying. To prevent conflict, it is best to just stop using slurs altogether.` 
 
 ### B3. Spam & spam content
-Flooding a channel with messages (called 'spam') is prohibited. Content such as gift card giveaways, links to scams, and links to viruses or malware are also considered spam and will be removed.
+Flooding a channel with messages (called 'spam') is prohibited. Content such as gift card giveaways or links to scams are also considered 'spam' and will be removed.
+
+
+**B3-1.** Any malicious content (links to IP phishing sites, viruses, malware, etc.) warrant immediate ban.
 
 ### B4. Posting in the correct channel
-Each channel functions like a 'category' on traditional internet forums. Only things related to the main topic of that channel can be posted there.       
+Each channel functions like a 'category' on traditional internet forums. Only things related to the main topic of that channel can be posted there.
+
+       
 **B4-1.** A channel's topic can be found next to its' name, pictured below. The description can be clicked on to reveal the full text.  
 ![](https://i.imgur.com/5e79jzg.png)
-**B4-2.** Controversial topics should be rerouted to "#politics-and-debate".     
-**B4-3.** A 'debate' is a discussion where one user is trying to convince another user of their viewpoint. These should be redirected to the "#politics-and-debate" channel.
+
+
+**B4-2.** Political discussions should be redirected to "#politics-and-debate"  
+
+     
+**B4-3.** A 'debate' is a discussion where one user is trying to convince another user of their viewpoint. These should also be redirected to the "#politics-and-debate" channel.
 
 ### B5. Posting explicit content
 Any discussions that are dark, crude, or explicit in nature (but do not involve posting pornography) must be posted in the "#off-topic" channel. Any pornographic or 18+ content can _only_ be posted in the "#adult" channel. Content that is graphic or disturbing (such as gore) is prohibited entirely.
@@ -54,6 +70,8 @@ Giving an intentionally wrong answer to a question asked in #english-questions i
 Do not pretend to be a native speaker of the english language. The official server definition of a 'native speaker' can be found below:
 
 `Native - a person who learned to speak the language of the place where he or she was born as a child rather than learning it as a foreign language`
+
+The requirement for being a native speaker is to have been born in a country where English is the primary form of communication _and_ to have spoken that language while you were growing up (ages 1-18).
 
 # **Section D - Voice channels**
 
