@@ -1,13 +1,11 @@
 
 
 # **Section A - Staff Powers**
-### A1. Exclusive Privilege
-Staff (those with the 'Staff' role on the server) are the only users who may enforce the rules. Users who do not have the 'staff' role are discouraged from trying to moderate other users.
 
-### A2. Final Verdict
+### A1. Final Verdict
 If a staff member makes a verdict about a situation, it is final. It is no longer up for debate and users should drop the subject. If a user is not satisfied with the Moderators' verdict, they may approach a higher staff member in private messages.
 
-### A3. Catch-all 
+### A2. Catch-all 
 The moderation team reserves the right to block problematic users from joining the server. It is not possible for me, or anyone, to list every single situation where a user might cause problems. If we deem a user to have malicious intentions, they will be removed by the staff team.
 
 # **Section B - General Server Rules**
@@ -17,7 +15,7 @@ These rules apply server-wide and can include but are not limited to text channe
 Users should be polite and respectful when interacting with one another. Attacking other users, both on the server and in DM, is prohibited.    
 
 
-**B1-1.** Joking is OK when everyone is in agreement.
+**B1-1.** Joking is OK when everyone is in agreement. 
 
 
 **B1-2.** This rule also encompasses hate speech, or denouncing a group based on their gender, race, sexuality, etc.  
