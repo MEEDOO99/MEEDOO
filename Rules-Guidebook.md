@@ -1,12 +1,15 @@
 
 
-# **Section A - Staff Powers**
+# **Section A - Staff Provisions**
 
 ### A1. Final Verdict
 If a staff member makes a verdict about a situation, it is final. It is no longer up for debate and users should drop the subject. If a user is not satisfied with the Moderators' verdict, they may approach a higher staff member in private messages.
 
 ### A2. Catch-all 
 The moderation team reserves the right to block problematic users from joining the server. It is not possible for me, or anyone, to list every single situation where a user might cause problems. If we deem a user to have malicious intentions, they will be removed by the staff team.
+
+### A3. Obstruction of Staff Duties
+Users who are not involved in a staff member's activities should stay out. Attempting to obstruct, deceive, or impede the actions of a staff member is punishable. 
 
 # **Section B - General Server Rules**
 These rules apply server-wide and can include but are not limited to text channels, voice channels, direct message, nicknames, playing status, etc...
