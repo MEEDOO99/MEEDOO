@@ -23,10 +23,7 @@ These rules apply server-wide and can include but are not limited to text channe
 Users should be polite and respectful when interacting with one another. Attacking other users, both on the server and in DM, is prohibited.    
 
 
-**B1-1.** Joking is OK when everyone is in agreement. 
-
-
-**B1-2.** This rule also encompasses hate speech, or denouncing a group based on their gender, race, sexuality, etc.  
+**B1-1.** This rule also encompasses hate speech, or denouncing a group based on their gender, race, sexuality, etc.  
 
 `It's unlikely that anybody cares if you hate a certain group for their traits. Publically denouncing them will only cause infighting and more drama.`
 
