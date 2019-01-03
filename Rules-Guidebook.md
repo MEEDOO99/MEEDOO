@@ -19,7 +19,7 @@ The identity of those who have reported a user must remain a secret. If they wis
 # **Section B - General Server Rules**
 These rules apply server-wide and can include but are not limited to text channels, voice channels, direct message, nicknames, playing status, etc...
 
-### B1. Harassment of users & groups
+### B1. Harassment of users
 Users should be polite and respectful when interacting with one another. Attacking other users, both on the server and in DM, is prohibited.    
 
 
@@ -70,7 +70,7 @@ In all of the main chat channels except the "#other-languages" text channel and 
 Speaking other languages repeatedly in other channels besides the two listed above, is prohibited.
 
 ### B9. Ban Evasion
-Ban evasion is joining the server with another account t
+Ban evasion is joining the server with another account to bypass a previous punishment or ban. Ban evasion is prohibited, but staff have the freedom to deal with them at their discretion.
 
 # **Section C - Learning Channels**
 
@@ -82,9 +82,10 @@ Do not pretend to be a native speaker of the english language. The official serv
 
 `Native - a person who learned to speak the language of the place where he or she was born as a child rather than learning it as a foreign language`
 
-The requirement for being a native speaker is to have been born in a country where English is the primary form of communication _and_ to have spoken that language while you were growing up (ages 1-18).
+You must have been born in a primarily English-speaking country _and_ be able to speak the language to a reasonable degree.
 
 # **Section D - Voice channels**
+Keep in mind rules from section B also apply in the voice channel.
 
 ### D1. Loud, disruptive sounds
 Loud disruptive sounds in the voice channel are prohibited. This includes screaming into the microphone, earrape, playing music or other sounds through your microphone, or excessive background noise.
