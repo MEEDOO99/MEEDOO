@@ -25,7 +25,6 @@ Users should be polite and respectful when interacting with one another. Attacki
 
 **B1-1.** This rule also encompasses hate speech, or denouncing a group based on their gender, race, sexuality, etc.  
 
-`It's unlikely that anybody cares if you hate a certain group for their traits. Publically denouncing them will only cause infighting and more drama.`
 
 ### B2. Use of slurs/derogatory terms
 The use of slurs is prohibited, regardless of context. A slur is any term meant to demean or cause offense to a certain group, based on gender, race, sexuality, etc.
@@ -47,10 +46,9 @@ Each channel functions like a 'category' on traditional internet forums. Only th
 ![](https://i.imgur.com/5e79jzg.png)
 
 
-**B4-2.** Political discussions should be redirected to "#politics-and-debate"  
+**B4-2.** Discussions involving political or controversial topics must be redirected to "#politics-and-debate".
 
-     
-**B4-3.** A 'debate' is a discussion where one user is trying to convince another user of their viewpoint. These should also be redirected to the "#politics-and-debate" channel.
+**B4-3.** Heated debates should also be redirected to "#politics-and-debate".
 
 ### B5. Posting explicit content
 Any discussions that are dark, crude, or explicit in nature (but do not involve posting pornography) must be posted in the "#off-topic" channel. Any pornographic or 18+ content can _only_ be posted in the "#adult" channel. Content that is graphic or disturbing (such as gore) is prohibited entirely.
