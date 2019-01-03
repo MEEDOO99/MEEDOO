@@ -53,8 +53,8 @@ Each channel functions like a 'category' on traditional internet forums. Only th
 ### B5. Posting explicit content
 Any discussions that are dark, crude, or explicit in nature (but do not involve posting pornography) must be posted in the "#off-topic" channel. Any pornographic or 18+ content can _only_ be posted in the "#adult" channel. Content that is graphic or disturbing (such as gore) is prohibited entirely.
 
-### B6. Discord Terms of Service
-Any content that violates the Discord Terms of Service (https://discordapp.com/terms) is prohibited. 
+### B6. Discord Terms of Service & Community Guidelines
+Any content that violates Discord's ToS or Community Guidelines is prohibited. 
 
 ### B7. Advertising
 Advertising is repeatedly posting a link to a chat group with the intent of garnering more members. Advertising is prohibited both on the server and in DMs, as it is against the Discord Terms of Service. The only time advertising in DMs is allowed is if the user receiving the message asked for the link beforehand. 
@@ -93,9 +93,6 @@ If a user is being uncooperative while using the music bot (for example, if they
 
 ### D4. Abuse of the DJ role
 If a user is using their role as a DJ to prevent other users from utilizing the music bot properly, they are liable to have their role taken away from them. (For example, if a DJ were to skip songs except those queued by him)
-
-
-
 
 
 
