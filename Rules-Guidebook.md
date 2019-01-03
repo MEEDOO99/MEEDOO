@@ -9,7 +9,12 @@ If a staff member makes a verdict about a situation, it is final. It is no longe
 The moderation team reserves the right to block problematic users from joining the server. It is not possible for me, or anyone, to list every single situation where a user might cause problems. If we deem a user to have malicious intentions, they will be removed by the staff team.
 
 ### A3. Obstruction of Staff Duties
-Users who are not involved in a staff member's activities should stay out. Attempting to obstruct, deceive, or impede the actions of a staff member is punishable. 
+Users who are not involved in a staff member's activities should stay out. 
+
+**A3-1.** Attempting to obstruct a staff member in their activities is punishable.
+
+### A4. Right to Confidentiality
+The identity of those who have reported a user must remain a secret. If they wish to reveal themselves, they can do so on their own volition.
 
 # **Section B - General Server Rules**
 These rules apply server-wide and can include but are not limited to text channels, voice channels, direct message, nicknames, playing status, etc...
@@ -22,6 +27,8 @@ Users should be polite and respectful when interacting with one another. Attacki
 
 
 **B1-2.** This rule also encompasses hate speech, or denouncing a group based on their gender, race, sexuality, etc.  
+
+`It's unlikely that anybody cares if you hate a certain group for their traits. Publically denouncing them will only cause infighting and more drama.`
 
 ### B2. Use of slurs/derogatory terms
 The use of slurs is prohibited, regardless of context. A slur is any term meant to demean or cause offense to a certain group, based on gender, race, sexuality, etc.
@@ -61,6 +68,9 @@ Advertising is repeatedly posting a link to a chat group with the intent of garn
 In all of the main chat channels except the "#other-languages" text channel and the "Other Languages" voice channel, English should be the primary language used to communicate.
 
 Speaking other languages repeatedly in other channels besides the two listed above, is prohibited.
+
+### B9. Ban Evasion
+Ban evasion is joining the server with another account t
 
 # **Section C - Learning Channels**
 
