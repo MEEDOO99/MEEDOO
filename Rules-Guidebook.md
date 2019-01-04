@@ -38,6 +38,8 @@ Flooding a channel with messages (called 'spam') is prohibited. Content such as 
 
 **B3-1.** Any malicious content (links to IP phishing sites, viruses, malware, etc.) warrant immediate ban.
 
+**B3-2.** 'Shitposting' or low-quality posts that are not meant to be serious belong in "#off-topic". 
+
 ### B4. Posting in the correct channel
 Each channel functions like a 'category' on traditional internet forums. Only things related to the main topic of that channel can be posted there.
 
