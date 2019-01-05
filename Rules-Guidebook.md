@@ -3,6 +3,7 @@
 * [Section B](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-b---general-server-rules)
 * [Section C](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-c---learning-channels)
 * [Section D](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-d---voice-channels)
+* [Section E](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-e---progression-of-punishments)
 
 ***
 
@@ -115,7 +116,12 @@ If a user is using their role as a DJ to prevent other users from utilizing the 
 | 3rd Offense | Mute 7 days  | |
 | 4th Offense | Ban | User is eligible for appeal within 7 days of the ban being issued. |
 
-### E2. There are some 'special' scenarios where immediate action is required. 
+### E2. This progression can be skipped if there is an emergency that requires more immediate action. This can include:
+* If the server is being spammed or raided 
+* Violations of the Discord Community Guidelines
+* DM advertisements
+
+**E2-1.** Moderators should have a reasonable rationale for using this clause. 
 
 
 
