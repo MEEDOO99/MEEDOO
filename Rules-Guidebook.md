@@ -61,6 +61,9 @@ Any content that violates Discord's ToS or Community Guidelines is prohibited.
 ### B7. Advertising
 Advertising is repeatedly posting a link to a chat group with the intent of garnering more members. Advertising is prohibited both on the server and in DMs, as it is against the Discord Terms of Service. The only time advertising in DMs is allowed is if the user receiving the message asked for the link beforehand. 
 
+|| **Punishment** || **Time to appeal** ||
+|| Ban || 7 days ||
+
 ### B8. Use of English
 In all of the main chat channels except the "#other-languages" text channel and the "Other Languages" voice channel, English should be the primary language used to communicate.
 
@@ -95,6 +98,9 @@ If a user is being uncooperative while using the music bot (for example, if they
 
 ### D4. Abuse of the DJ role
 If a user is using their role as a DJ to prevent other users from utilizing the music bot properly, they are liable to have their role taken away from them. (For example, if a DJ were to skip songs except those queued by him)
+
+
+
 
 
 
