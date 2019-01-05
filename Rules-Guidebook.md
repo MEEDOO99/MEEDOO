@@ -1,3 +1,11 @@
+# Table of Contents
+* [https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-a---staff-provisions](Section A)
+* [https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-b---general-server-rules](Section B)
+* [https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-c---learning-channels](Section C)
+* [https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-d---voice-channels](Section D)
+
+
+***
 
 
 # **Section A - Staff Provisions**
@@ -61,8 +69,6 @@ Any content that violates Discord's ToS or Community Guidelines is prohibited.
 ### B7. Advertising
 Advertising is repeatedly posting a link to a chat group with the intent of garnering more members. Advertising is prohibited both on the server and in DMs, as it is against the Discord Terms of Service. The only time advertising in DMs is allowed is if the user receiving the message asked for the link beforehand. 
 
-|| **Punishment** || **Time to appeal** ||
-|| Ban || 7 days ||
 
 ### B8. Use of English
 In all of the main chat channels except the "#other-languages" text channel and the "Other Languages" voice channel, English should be the primary language used to communicate.
@@ -98,6 +104,21 @@ If a user is being uncooperative while using the music bot (for example, if they
 
 ### D4. Abuse of the DJ role
 If a user is using their role as a DJ to prevent other users from utilizing the music bot properly, they are liable to have their role taken away from them. (For example, if a DJ were to skip songs except those queued by him)
+
+# **Section E - Progression of Punishments**
+
+### E1. General progression of punishments looks like this:
+
+| Infraction  | Duration | Information |
+| ------------- | ------------- | ------------- |
+| 1st Offense  | Warning | User will be DMed reason through the bot automatically. |
+| 2nd Offense | Mute 60-1440 min  | Mute time is at moderator discretion but should not exceed 1440 minutes (1 day). |
+| 3rd Offense | Mute 7 days  | |
+| 4th Offense | Ban | User is eligible for appeal within 7 days of the ban being issued. |
+
+### E2. There are some 'special' scenarios where immediate action is required. 
+
+
 
 
 
