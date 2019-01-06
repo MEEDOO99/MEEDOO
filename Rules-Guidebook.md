@@ -13,6 +13,8 @@
 ### A1. Final Verdict
 If a staff member makes a verdict about a situation, it is final. It is no longer up for debate and users should drop the subject. If a user is not satisfied with the Moderators' verdict, they may approach a higher staff member in private messages.
 
+**A1-1.** If a staff member orders someone to do something, they should be obeyed.
+
 ### A2. Catch-all 
 The moderation team reserves the right to block problematic users from joining the server. It is not possible for me, or anyone, to list every single situation where a user might cause problems. If we deem a user to have malicious intentions, they will be removed by the staff team.
 
@@ -31,7 +33,7 @@ These rules apply server-wide and can include but are not limited to text channe
 Users should be polite and respectful when interacting with one another. Attacking other users, both on the server and in DM, is prohibited.    
 
 
-**B1-1.** This rule also encompasses hate speech, or denouncing a group based on their gender, race, sexuality, etc.  
+**B1-1.** This rule also encompasses hate speech, or denouncing a group based on their gender, race, sexuality, etc. Hate speech is also prohibited.
 
 
 ### B2. Use of slurs/derogatory terms
@@ -67,7 +69,7 @@ Any discussions that are dark, crude, or explicit in nature (but do not involve 
 Any content that violates Discord's ToS or Community Guidelines is prohibited. 
 
 ### B7. Advertising
-Advertising is repeatedly posting a link to a chat group with the intent of garnering more members. Advertising is prohibited both on the server and in DMs, as it is against the Discord Terms of Service. The only time advertising in DMs is allowed is if the user receiving the message asked for the link beforehand. 
+Advertising is repeatedly posting a link to a chat group/other service with the intent of garnering more members. Advertising is prohibited both on the server and in DMs, as it is against the Discord Terms of Service. The only time advertising in DMs is allowed is if the user receiving the message asked for the link beforehand. 
 
 
 ### B8. Use of English
@@ -75,8 +77,8 @@ In all of the main chat channels except the "#other-languages" text channel and 
 
 Speaking other languages repeatedly in other channels besides the two listed above, is prohibited.
 
-### B9. Ban Evasion
-Ban evasion is joining the server with another account to bypass a previous punishment or ban. Ban evasion is prohibited, but staff have the freedom to deal with them at their discretion.
+### B9. Evasion
+Evasion is joining the server with another account to bypass a previous punishment or ban. Evasion is prohibited, but staff have the freedom to deal with them at their discretion.
 
 # **Section C - Learning Channels**
 
@@ -88,16 +90,18 @@ Do not pretend to be a native speaker of the english language. The official serv
 
 `Native - a person who learned to speak the language of the place where he or she was born as a child rather than learning it as a foreign language`
 
-You must have been born in a primarily English-speaking country _and_ be able to speak the language to a reasonable degree.
+You must have been born in a primarily English-speaking country _and_ be able to speak the language with reasonable fluency.
 
 # **Section D - Voice channels**
-Keep in mind rules from section B also apply in the voice channel.
+Keep in mind rules from section B also apply in the voice channels.
 
 ### D1. Loud, disruptive sounds
 Loud disruptive sounds in the voice channel are prohibited. This includes screaming into the microphone, earrape, playing music or other sounds through your microphone, or excessive background noise.
 
 ### D2. Abuse of the music bot
 Using the bot to play earrape, high pitched ringing, or any other sounds that could cause damage to one's hearing or audio equipment is prohibited. 
+
+**D2-1.** Using the music bot to play explicit content is prohibited. 
 
 ### D3. Cooperation with other users while using the music bot
 If a user is being uncooperative while using the music bot (for example, if they are spamming their own songs onto the queue without letting people add their own songs), this is prohibited. 
@@ -113,8 +117,8 @@ If a user is using their role as a DJ to prevent other users from utilizing the 
 | ------------- | ------------- | ------------- |
 | 1st Offense  | Warning | User will be DMed reason through the bot automatically. |
 | 2nd Offense | Mute 60-1440 min  | Mute time is at moderator discretion but should not exceed 1440 minutes (1 day). |
-| 3rd Offense | Mute 7 days  | |
-| 4th Offense | Ban | User is eligible for appeal within 7 days of the ban being issued. |
+| 3rd Offense | Mute 7 days  | 10080 minutes. |
+| 4th Offense | Ban | User is eligible for appeal after 7 days. |
 
 ### E2. This progression can be skipped if there is an emergency that requires more immediate action. This can include:
 * If the server is being spammed or raided 
