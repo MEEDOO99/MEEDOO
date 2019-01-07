@@ -13,7 +13,9 @@
 ### A1. Final Verdict
 If a staff member makes a verdict about a situation, it is final. It is no longer up for debate and users should drop the subject. If a user is not satisfied with the Moderators' verdict, they may approach a higher staff member in private messages.
 
-**A1-1.** If a staff member orders someone to do something, they should be obeyed.
+**A1-1.** If a staff member orders a user or users to stop doing something, they should be obeyed.
+
+`This is difficult for people who don't like being ordered around- but it helps us greatly.`
 
 ### A2. Catch-all 
 The moderation team reserves the right to block problematic users from joining the server. It is not possible for me, or anyone, to list every single situation where a user might cause problems. If we deem a user to have malicious intentions, they will be removed by the staff team.
