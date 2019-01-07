@@ -15,7 +15,7 @@ If a staff member makes a verdict about a situation, it is final. It is no longe
 
 **A1-1.** If a staff member orders a user or users to stop doing something, they should be obeyed.
 
-`This is difficult for people who don't like being ordered around- but it helps us greatly.`
+`Unquestionably. If you don't like what a staff member is doing, you may direct message a higher member of staff to address your concerns.`
 
 ### A2. Catch-all 
 The moderation team reserves the right to block problematic users from joining the server. It is not possible for me, or anyone, to list every single situation where a user might cause problems. If we deem a user to have malicious intentions, they will be removed by the staff team.
