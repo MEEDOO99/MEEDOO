@@ -5,6 +5,8 @@
 * [Section D](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-d---voice-channels)
 * [Section E](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-e---progression-of-punishments)
 
+This was made for the [English](https://discord.gg/RtuAAmv) server.
+
 ***
 
 
@@ -130,7 +132,6 @@ If a user is using their role as a DJ to prevent other users from utilizing the 
 * DM advertisements
 
 **E2-1.** Moderators should have a reasonable rationale for using this clause. 
-
 
 
 
