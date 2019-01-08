@@ -27,9 +27,6 @@ Users who are not involved in a staff member's activities should stay out.
 
 **A3-1.** Attempting to obstruct a staff member in their activities is punishable.
 
-### A4. Right to Confidentiality
-The identity of those who have reported a user must remain a secret. If they wish to reveal themselves, they can do so on their own volition.
-
 # **Section B - General Server Rules**
 These rules apply server-wide and can include but are not limited to text channels, voice channels, direct message, nicknames, playing status, etc...
 
