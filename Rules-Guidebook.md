@@ -75,7 +75,7 @@ Advertising is repeatedly posting a link to a chat group/other service with the 
 
 
 ### B8. Use of English
-In all of the main chat channels except the "#other-languages" text channel and the "Other Languages" voice channel, English should be the primary language used to communicate.
+In all of the main chat channels except the "#other-languages" text channel and the "Other Languages" voice channel, English should be spoken. 
 
 Speaking other languages repeatedly in other channels besides the two listed above, is prohibited.
 
