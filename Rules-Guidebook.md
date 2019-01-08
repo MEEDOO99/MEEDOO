@@ -35,14 +35,16 @@ These rules apply server-wide and can include but are not limited to text channe
 Users should be polite and respectful when interacting with one another. Attacking other users, both on the server and in DM, is prohibited.    
 
 
-**B1-1.** This rule also encompasses hate speech, or denouncing a group based on their gender, race, sexuality, etc. Hate speech is also prohibited.
+**B1-1.** This rule also encompasses hate speech, or denouncing a group based on their gender, race, sexuality, etc. Hate speech is prohibited.
 
 
 ### B2. Use of slurs/derogatory terms
 The use of slurs is prohibited, regardless of context. A slur is any term meant to demean or cause offense to a certain group, based on gender, race, sexuality, etc.
 
 
-`Even if there is no mal-intent, using slurs often makes people feel uncomfortable or attacked. To new users who join into a conversation where slurs are being used often, it may discourage them from staying. To prevent conflict, it is best to just stop using slurs altogether.` 
+`Even if there is no mal-intent, the use of slurs and other derogatory terms often makes users feel uncomfortable. It also may discourage new users from joining the channel.`
+
+`While some people see themselves as 'permitted' to use these words (possibly because they are part of the group associated with the term), we are still prohibiting it uniformly. The moderation team has no way to confirm that you are 'permitted' to use the word, and some may use this as a loophole to get around the rule. Therefore, NOBODY IS ALLOWED TO USE THESE TERMS, regardless of background.`
 
 ### B3. Spam & spam content
 Flooding a channel with messages (called 'spam') is prohibited. Content such as gift card giveaways or links to scams are also considered 'spam' and will be removed.
