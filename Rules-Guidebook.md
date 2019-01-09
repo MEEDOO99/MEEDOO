@@ -105,6 +105,8 @@ Loud disruptive sounds in the voice channel are prohibited. This includes scream
 
 `Also take into account the other users in the channel. If they're all screaming at you to stop- you should probably stop before a staff member has to get involved.`
 
+`Disruptive in this context describes any behaviour that impedes or deters people from using the voice channel. For example, if you are screaming loud enough that people can't talk, it's disruptive.`
+
 ### D2. Abuse of the music bot
 Using the bot to play earrape, high pitched ringing, or any other sounds that could cause damage to one's hearing or audio equipment is prohibited. 
 
