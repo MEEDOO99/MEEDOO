@@ -103,6 +103,8 @@ Loud disruptive sounds in the voice channel are prohibited. This includes scream
 
 **D1-1.** Voice changers (anything used to change the sound of your voice) are allowed, providing they are not disruptive. If a staff member asks a user to stop using their voice changer, they must stop. If they continue, this is prohibited. 
 
+`Also take into account the other users in the channel. If they're all screaming at you to stop- you should probably stop before a staff member has to get involved.`
+
 ### D2. Abuse of the music bot
 Using the bot to play earrape, high pitched ringing, or any other sounds that could cause damage to one's hearing or audio equipment is prohibited. 
 
