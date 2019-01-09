@@ -101,6 +101,8 @@ Keep in mind rules from section B also apply in the voice channels.
 ### D1. Loud, disruptive sounds
 Loud disruptive sounds in the voice channel are prohibited. This includes screaming into the microphone, earrape, playing music or other sounds through your microphone, or excessive background noise.
 
+**D1-2.** Voice changers (anything used to change the sound of your voice) are allowed, providing they are not disruptive. If a staff member asks a user to stop using their voice changer, they must stop. If they continue, this is prohibited. 
+
 ### D2. Abuse of the music bot
 Using the bot to play earrape, high pitched ringing, or any other sounds that could cause damage to one's hearing or audio equipment is prohibited. 
 
