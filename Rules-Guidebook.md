@@ -3,7 +3,6 @@
 * [Section B](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-b---general-server-rules)
 * [Section C](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-c---learning-channels)
 * [Section D](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-d---voice-channels)
-* [Section E](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-e---progression-of-punishments)
 
 This was made for the [English](https://discord.gg/RtuAAmv) server.
 
@@ -42,6 +41,8 @@ Users who are not involved in a staff member's activities should stay out.
 * DM advertisements
 
 **A5-1.** Moderators should have a reasonable rationale for using this clause. 
+
+**A5-2.** This progression may also be skipped if a user has been on the server for less than a month, or has no roles. 
 
 
 # **Section B - General Server Rules**
