@@ -1,44 +1,9 @@
-### 1. Moderatörleri dinleyin. Eğer size bir şeyi yapmamanızı söylerlerse, yapmayın.
+# KURALLAR
+1. Saygılı olunuz. Hakaret içeren davranışlarda bulunmayınız, sağduyunuzu koruyunuz.
+2. Spam yapmayınız. Rahatsız edici, şiddet içeren vb. içerikleri paylaşmaktan kaçınınız.
+3. Discord hizmet şartları ve topluluk kuralları çerçevesinde kalmaya gayret gösteriniz.
+4. Eğer bir konu üzerinde münazara edecekseniz lütfen konunuza uygun kanalı kullanınız.
+5. "other languages" kanalı haricinde başka bir  kanalda İngilizce harici başka bir dil konuşmamaya gayret gösteriniz.
+6. Ana dili İngilizce olanları veya görevlileri taklit etmekten kaçınınız.
 
-
-  •Biz sizi uygun gördüğümüz her sebepten dolayı cezalandırma hakkına sahibiz.
-
-
-  •Moderatörlere itiraz etmeyin. Eğer bir şikayetiniz varsa bize bildirin ve biz düşüncemizi söyleriz. Eğer biz zaten düşüncemizi açıkça belirtmişsek, konuşma orda bitecek. 
-
-
-### 2. Diğerlerine saygı gösterin. Ahkalksız ve rahatsız edici davranışlarda bulunmayın.
-
-  •Irkçılık yapmayın. Irklarla ilgili rahatsız edici tabirlerde bulunmayın
-
-  •Discord Hizmet Kullanım Şartlarını ve Topluluk Ana Esaslarını takip edin. 
-
-  •Doğru kanalda paylaşım yapın.
-
-  •Profil fotoğrafı ve kullanıcı adınızı uygun bir şekilde seçin.
-
-### 3. Spam ve reklam yapmayın.
-
-### 4. Rahatsız edici fotoğraf/içerik yasak.
-
- •NSFW içerikli gönderiler sadece #adult kanalına gönderilebilir. Başka yerlere kesinlikle gönderilemez.
-
-### 5. Ses kanalları:
-
-  •Sadece ingilizce konuşmalısınız. Farklı dilleri konuşarak diğer insanlara bir faydanız olmaz, özellikle sizi anlayamadıkları zaman.
-
-  •Yüksek ve rahatsız edici sesler yasak.
-
-  •Bazen susun ve diğerlerinin de konuşmaya katılmasına izin verin.
-
-### 6. Yanlış bilgi yaymayın ve diğerlerini İngilizce ile alakalı yanlış yönlendirmeyin.
-
-  •[#english-questions](https://discordapp.com/channels/363985050578190336/423813514394861579) de bilerek veya bilmeden yanlış cevap vermek yasak.
-
-  •Eğer ana diliniz değilse kendinize o dilde "native" rolünü vermeyin.
-
-Olası her durumu bu kurallar içine yazamayız. Eğer saygılısanız ve sağduyunuzu kullanarak paylaşım yapıyorsanız, yukardaki kuralların hiçbirini ihlal etme olasılığınız yoktur.
-
-Eğer kuralları ihlal eden birine rastgelirseniz lütfen @Moderators rolü olanları etiketleyin veya iletişime geçin.
-
-❤️ _alpagu#2114_
+En Önemlisi de, sunucu görevlilerini dikkate alınız, bu sayede hiçbir sorunla karşılaşmazsınız.
