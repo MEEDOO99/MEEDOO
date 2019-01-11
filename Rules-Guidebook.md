@@ -27,6 +27,23 @@ Users who are not involved in a staff member's activities should stay out.
 
 **A3-1.** Attempting to obstruct a staff member in their activities is punishable.
 
+### A4. General progression of punishments looks like this:
+
+| Infraction  | Duration | Information |
+| ------------- | ------------- | ------------- |
+| 1st Offense  | Warning | User will be DMed reason through the bot automatically. |
+| 2nd Offense | Mute 60-1440 min  | Mute time is at moderator discretion but should not exceed 1440 minutes (1 day). |
+| 3rd Offense | Mute 7 days  | 10080 minutes. |
+| 4th Offense | Ban | User is eligible for appeal after 7 days. |
+
+### A5. This progression can be skipped if there is an emergency that requires more immediate action. This can include:
+* If the server is being spammed or raided 
+* Violations of the Discord Community Guidelines
+* DM advertisements
+
+**A5-1.** Moderators should have a reasonable rationale for using this clause. 
+
+
 # **Section B - General Server Rules**
 These rules apply server-wide and can include but are not limited to text channels, voice channels, direct message, nicknames, playing status, etc...
 
@@ -116,26 +133,7 @@ Using the bot to play earrape, high pitched ringing, or any other sounds that co
 If a user is being uncooperative while using the music bot (for example, if they are spamming their own songs onto the queue without letting people add their own songs), this is prohibited. 
 
 ### D4. Abuse of the DJ role
-If a user is using their role as a DJ to prevent other users from utilizing the music bot properly, they are liable to have their role taken away from them. (For example, if a DJ were to skip songs except those queued by him)
-
-# **Section E - Progression of Punishments**
-
-### E1. General progression of punishments looks like this:
-
-| Infraction  | Duration | Information |
-| ------------- | ------------- | ------------- |
-| 1st Offense  | Warning | User will be DMed reason through the bot automatically. |
-| 2nd Offense | Mute 60-1440 min  | Mute time is at moderator discretion but should not exceed 1440 minutes (1 day). |
-| 3rd Offense | Mute 7 days  | 10080 minutes. |
-| 4th Offense | Ban | User is eligible for appeal after 7 days. |
-
-### E2. This progression can be skipped if there is an emergency that requires more immediate action. This can include:
-* If the server is being spammed or raided 
-* Violations of the Discord Community Guidelines
-* DM advertisements
-
-**E2-1.** Moderators should have a reasonable rationale for using this clause. 
-
+If a user is using their role as a DJ to prevent other users from utilizing the music bot properly, they are liable to have their role taken away from them. (For example, if a DJ were to skip songs except those queued by them.
 
 
 
