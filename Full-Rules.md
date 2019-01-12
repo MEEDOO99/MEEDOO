@@ -43,7 +43,7 @@ Users who are not involved in a staff member's activities should stay out.
 
 **A5-1.** Moderators should have a reasonable rationale for using this clause. 
 
-**A5-2.** This progression may also be skipped if a user has been on the server for less than a month, or has no roles. 
+**A5-2.** This progression may also be skipped if a user has been on the server for less than a month, or if the user does not have any roles.
 
 
 # **Section B - General Server Rules**
