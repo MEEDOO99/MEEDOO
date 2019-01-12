@@ -1,10 +1,11 @@
+These are the full, detailed version of the rules that are in effect. This was made for the [English](https://discord.gg/RtuAAmv) server.
+
+
 # Table of Contents
 * [Section A](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-a---staff-provisions)
 * [Section B](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-b---general-server-rules)
 * [Section C](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-c---learning-channels)
 * [Section D](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-d---voice-channels)
-
-This was made for the [English](https://discord.gg/RtuAAmv) server.
 
 ***
 
