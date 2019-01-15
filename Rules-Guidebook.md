@@ -100,7 +100,9 @@ In all of the main chat channels except the "#other-languages" text channel and 
 Speaking other languages repeatedly in other channels besides the two listed above, is prohibited.
 
 ### B9. Evasion
-Evasion is joining the server with another account to bypass a previous punishment or ban. Evasion is prohibited, but staff have the freedom to deal with them at their discretion.
+Evasion is joining the server with another account to bypass a previous punishment or ban. Evasion is prohibited and warrants immediate ban.
+
+**B9-1.** Evasion is only permissible when the second account is being used to appeal or discuss their ban. Otherwise, it is prohibited.
 
 # **Section C - Learning Channels**
 
