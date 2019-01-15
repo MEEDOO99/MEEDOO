@@ -15,7 +15,7 @@ Different translations of the rules.
 
 # Moderator Tools
 * [Moderator Phrasebook](https://oraclenine.github.io/English/)
-* [Rule Guidebook](https://github.com/OracleNine/English/wiki/Full-Rules)
+* [Rule Guidebook](https://github.com/OracleNine/English/wiki/Rules-Guidebook)
 
 
 
