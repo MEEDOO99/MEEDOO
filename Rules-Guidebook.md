@@ -70,7 +70,7 @@ Flooding a channel with messages (called 'spam') is prohibited. Content such as 
 
 **B3-1.** Any malicious content (links to IP phishing sites, viruses, malware, etc.) warrant immediate ban.
 
-**B3-2.** 'Shitposting' or creating low-quality posts that are not meant to be serious belong in "#off-topic". Shitposting in a channel other than "#off-topic" is prohibited.
+**B3-2.** 'Shitposting' or creating low-quality posts that are not meant to be serious belong in "#memes-and-shitposting". Shitposting in a channel other than "#memes-and-shitposting" is prohibited.
 
 ### B4. Posting in the correct channel
 Each channel functions like a 'category' on traditional internet forums. Only things related to the main topic of that channel can be posted there.
@@ -85,7 +85,7 @@ Each channel functions like a 'category' on traditional internet forums. Only th
 **B4-3.** Heated debates should also be redirected to "#politics-and-debate".
 
 ### B5. Posting explicit content
-Any discussions that are dark, crude, or explicit in nature (but do not involve posting pornography) must be posted in the "#off-topic" channel.
+Any discussions that are dark, crude, or explicit in nature (but do not involve posting pornography) must be posted in the "#memes-and-shitposting" channel.
 
  Any pornographic or 18+ content can _only_ be posted in the "#adult" channel. 
 
