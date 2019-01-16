@@ -47,12 +47,19 @@ Users who are not involved in a staff member's activities should stay out.
 
 ### A6. Petitions
 A 'petition' is a vote initiated by a moderator to:
+
+
 • Motion to unban someone
+
+
 • Motion to shorten someone's punishment
+
+
 • Motion to punish someone
 or get the general moderation team's opinion on something.
 
-To pass, a petition must have more AYE's than NAY's. 
+
+
 
 
 # **Section B - General Server Rules**
