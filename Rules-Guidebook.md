@@ -45,6 +45,15 @@ Users who are not involved in a staff member's activities should stay out.
 
 **A5-2.** This progression may also be skipped if a user has been on the server for less than a month, or if the user does not have any roles.
 
+### A6. Petitions
+A 'petition' is a vote initiated by a moderator to:
+• Motion to unban someone
+• Motion to shorten someone's punishment
+• Motion to punish someone
+or get the general moderation team's opinion on something.
+
+To pass, a petition must have more AYE's than NAY's. 
+
 
 # **Section B - General Server Rules**
 These rules apply server-wide and can include but are not limited to text channels, voice channels, direct message, nicknames, playing status, etc...
