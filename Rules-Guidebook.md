@@ -134,7 +134,7 @@ Do not pretend to be a native speaker of the english language. The official serv
 
 `Native - a person who learned to speak the language of the place where he or she was born as a child rather than learning it as a foreign language`
 
-You must have been born in a primarily English-speaking country _and_ be able to speak the language with reasonable fluency.
+You must have been raised in a primarily English-speaking country _and_ be able to speak the language with reasonable fluency.
 
 # **Section D - Voice channels**
 Keep in mind rules from section B also apply in the voice channels.
