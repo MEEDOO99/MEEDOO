@@ -132,7 +132,7 @@ Giving an intentionally wrong answer to a question asked in #english-questions i
 ### C2. Impersonating a native
 Do not pretend to be a native speaker of the english language. The official server definition of a 'native speaker' can be found below:
 
-`Native - a person who learned to speak the language of the place where he or she was born as a child rather than learning it as a foreign language`
+`Native - a person who learned to speak the language of the place where he or she was raised as a child rather than learning it as a foreign language`
 
 You must have been raised in a primarily English-speaking country _and_ be able to speak the language with reasonable fluency.
 
