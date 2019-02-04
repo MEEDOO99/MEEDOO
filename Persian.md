@@ -1,4 +1,4 @@
-‏:information_source: قوانین: 
+قوانین: 
 
 ۱- لطفاً به دیگران احترام بگذارید. فحاشی نکنید و مودب باشید. عاقلانه رفتار کنید.
 
@@ -19,3 +19,5 @@ https://github.com/OracleNine/English/wiki/Rules-Guidebook
 
 لینک دعوت دوستان:
 https://discord.gg/RtuAAmv
+
+Discombobulated#6291
