@@ -12,6 +12,7 @@ Different translations of the rules.
 * [Regeln](https://github.com/OracleNine/English/wiki/Regeln)
 * [Правила](https://github.com/OracleNine/English/wiki/Правила)
 * [כללים](https://github.com/OracleNine/English/wiki/כללים)
+* [Persian](https://github.com/OracleNine/English/wiki/Persian)
 
 # Moderator Tools
 * [Moderator Phrasebook](https://oraclenine.github.io/English/)
