@@ -28,7 +28,7 @@ Users who are not involved in a staff member's activities should stay out.
 ### A4. General progression of punishments looks like this:
 
 |  Infraction   |   Duration    |  Information |
-| ------------- | ------------- | ------------------------------------------------------- |
+| -------------:| ------------- | ------------------------------------------------------- |
 | 1st Offense   | Warning       | User will be DMed reason through the bot automatically. |
 | 2nd Offense   | Mute 60 min   | First mute is for an hour.                              |
 | 3rd Offense   | Mute 1-7 days | 1440-10080 minutes.                                     |
