@@ -1,8 +1,8 @@
-# English Learning Discord Group
+### English Learning Discord Group
 
 * [Join us!](https://discord.gg/RtuAAmv)
 
-# Rules in different languages
+### Rules in different languages
 
 * [[English - Rules|Rules]]
 * [[Español - Reglas|Reglas]]
@@ -15,7 +15,7 @@
 * [[עִברִית - כללים|כללים]]
 * [[Persian - Persian|Persian]]
 
-# Staff Listings
+### Staff Listings
 
 
 
