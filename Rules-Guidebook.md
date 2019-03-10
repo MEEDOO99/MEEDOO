@@ -1,14 +1,12 @@
 These are the full, detailed version of the rules that are in effect. This was made for the [English](https://discord.gg/RtuAAmv) server.
 
-
 # Table of Contents
-* [Section A](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-a---staff-provisions)
-* [Section B](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-b---general-server-rules)
-* [Section C](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-c---learning-channels)
-* [Section D](https://github.com/OracleNine/English/wiki/Rules-Guidebook#section-d---voice-channels)
+* [Section A](https://github.com/SergeyYermak/English/wiki/Rules-Guidebook#section-a---staff-provisions)
+* [Section B](https://github.com/SergeyYermak/English/wiki/Rules-Guidebook#section-b---general-server-rules)
+* [Section C](https://github.com/SergeyYermak/English/wiki/Rules-Guidebook#section-c---learning-channels)
+* [Section D](https://github.com/SergeyYermak/English/wiki/Rules-Guidebook#section-d---voice-channels)
 
 ***
-
 
 # **Section A - Staff Provisions**
 
@@ -29,12 +27,12 @@ Users who are not involved in a staff member's activities should stay out.
 
 ### A4. General progression of punishments looks like this:
 
-| Infraction  | Duration | Information |
-| ------------- | ------------- | ------------- |
-| 1st Offense  | Warning | User will be DMed reason through the bot automatically. |
-| 2nd Offense | Mute 60-1440 min  | Mute time is at moderator discretion but should not exceed 1440 minutes (1 day). |
-| 3rd Offense | Mute 7 days  | 10080 minutes. |
-| 4th Offense | Ban | User is eligible for appeal after 7 days. |
+|  Infraction   |   Duration    |  Information |
+| ------------- | ------------- | ------------------------------------------------------- |
+| 1st Offense   | Warning       | User will be DMed reason through the bot automatically. |
+| 2nd Offense   | Mute 60 min   | First mute is for an hour.                              |
+| 3rd Offense   | Mute 1-7 days | 1440-10080 minutes.                                     |
+| 4th Offense   | Ban           | User is eligible for appeal after 7 days.               |
 
 ### A5. This progression can be skipped if there is an emergency that requires more immediate action. This can include:
 * If the server is being spammed or raided 
@@ -48,19 +46,9 @@ Users who are not involved in a staff member's activities should stay out.
 ### A6. Petitions
 A 'petition' is a vote initiated by a moderator to:
 
-
-• Motion to unban someone
-
-
-• Motion to shorten someone's punishment
-
-
-• Motion to punish someone
-or get the general moderation team's opinion on something.
-
-
-
-
+* Motion to unban someone
+* Motion to shorten someone's punishment
+* Motion to punish someone or get the general moderation team's opinion on something.
 
 # **Section B - General Server Rules**
 These rules apply server-wide and can include but are not limited to text channels, voice channels, direct message, nicknames, playing status, etc...
@@ -68,13 +56,11 @@ These rules apply server-wide and can include but are not limited to text channe
 ### B1. Harassment of users
 Users should be polite and respectful when interacting with one another. Attacking other users, both on the server and in DM, is prohibited.    
 
-
 **B1-1.** This rule also encompasses hate speech, or denouncing a group based on their gender, race, sexuality, etc. Hate speech is prohibited.
 
 
 ### B2. Use of slurs/derogatory terms
 The use of slurs is prohibited, regardless of context. A slur is any term meant to demean or cause offense to a certain group, based on gender, race, sexuality, etc.
-
 
 `Even if there is no mal-intent, the use of slurs and other derogatory terms often makes users feel uncomfortable. It also may discourage new users from joining the channel.`
 
@@ -91,10 +77,8 @@ Flooding a channel with messages (called 'spam') is prohibited. Content such as 
 ### B4. Posting in the correct channel
 Each channel functions like a 'category' on traditional internet forums. Only things related to the main topic of that channel can be posted there.
 
-       
 **B4-1.** A channel's topic can be found next to its' name, pictured below. The description can be clicked on to reveal the full text.  
 ![](https://i.imgur.com/5e79jzg.png)
-
 
 **B4-2.** Discussions involving political or controversial topics must be redirected to "#politics-and-debate".
 
@@ -157,7 +141,7 @@ Using the bot to play earrape, high pitched ringing, or any other sounds that co
 If a user is being uncooperative while using the music bot (for example, if they are spamming their own songs onto the queue without letting people add their own songs), this is prohibited. 
 
 ### D4. Abuse of the DJ role
-If a user is using their role as a DJ to prevent other users from utilizing the music bot properly, they are liable to have their role taken away from them. (For example, if a DJ were to skip songs except those queued by them.
+If a user is using their role as a DJ to prevent other users from utilizing the music bot properly, they are liable to have their role taken away from them. (For example, if a DJ were to skip songs except those queued by them).
 
 
 
