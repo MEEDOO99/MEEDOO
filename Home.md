@@ -4,6 +4,7 @@
 
 # Rules in different languages
 Different translations of the rules.
+* [[Rules|Rules]]
 * [[Reglas|Reglas]]
 * [[Regras|Regras]]
 * [[القواعد|القواعد]]
