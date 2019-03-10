@@ -18,5 +18,6 @@
 ### Staff Listings
 
 * [[Staff Members|Staff Members]]
+* [[Teachers|Teachers]]
 * [[Translators|Translators]]
 
