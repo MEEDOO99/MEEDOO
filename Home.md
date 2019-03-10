@@ -3,7 +3,7 @@
 * [Join us!](https://discord.gg/RtuAAmv)
 
 # Rules in different languages
-Different translations of the rules.
+
 * [[English - Rules|Rules]]
 * [[Español - Reglas|Reglas]]
 * [[Português - Regras|Regras]]
@@ -15,8 +15,7 @@ Different translations of the rules.
 * [[עִברִית - כללים|כללים]]
 * [[Persian - Persian|Persian]]
 
-# Moderator Tools
-* [[Rule Guidebook|Rules-Guidebook]]
+# Staff Listings
 
 
 
