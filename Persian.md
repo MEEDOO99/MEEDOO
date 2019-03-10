@@ -15,7 +15,7 @@
 از همه مهم‌تر این‌که به حرف مدیران و ادمین‌های سرور گوش کنید تا هیچ مشکلی برایتان پیش نیاید.
 
 شما می‌توانید قوانین جزئی‌تر را به زبان انگلیسی در لینک زیر مطالعه کنید:
-https://github.com/SergeyYermak/English/wiki/Rules-Guidebook
+https://github.com/SergeyYermak/English/wiki/Rules
 
 لینک دعوت دوستان:
 https://discord.gg/RtuAAmv
