@@ -8,7 +8,7 @@ People for Moderators to contact when they are disciplining someone with poor/no
 - **Hebrew:** @!Welsh#4498
 
 ### Romance Languages
-- **French:** @captain#6171, @Monti#9504, @🍁 RollUpTheRim 🍁#6622
+- **French:** @Moroccat#2142, @Monti#9504, @🍁 RollUpTheRim 🍁#6622
 - **Italian:** @DannyBoy#3054, @Monti#9504
 - **Portuguese:** @Walli#6665, @Erick#5598
 
@@ -17,7 +17,7 @@ People for Moderators to contact when they are disciplining someone with poor/no
 
 ### Slavic Languages
 - **Polish:** @Monti#9504
-- **Russian:** @Sergey#5344, @captain#6171
+- **Russian:** @Sergey#5344, @Moroccat#2142
 
 ### East Asian Languages
 - **Chinese:** @Pайан｜瑞安#4279
