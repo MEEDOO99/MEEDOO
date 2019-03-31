@@ -26,6 +26,7 @@ People for Moderators to contact when they are disciplining someone with poor/no
 - **Korean:** @Noodl#6292
 
 ### Indo-Iranian Languages
+- **Bengali:**  @Raf-Kun ;-;#2201 
 - **Hindi:**  @Pайан｜瑞安#4279
 - **Persian:** @Discombobulated#6291
 - **Urdu:** @Pайан｜瑞安#4279 
