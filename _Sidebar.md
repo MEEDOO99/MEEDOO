@@ -10,7 +10,7 @@
 * [[Deutsch - Regeln|Regeln]]
 * [[русский - Правила|Правила]]
 * [[עִברִית - כללים|כללים]]
-* [[Persian - Persian|Persian]]
+* [[فارسی - قوانین]]
 
 ### Staff
 
