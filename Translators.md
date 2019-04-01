@@ -10,8 +10,8 @@ People for Moderators to contact when they are disciplining someone with poor/no
 ### Romance Languages
 - **French:** @Moroccat#2142, @Monti#9504, @🍁 RollUpTheRim 🍁#6622, @Stranger#5767 
 #5767
-- **Italian:** @DannyBoy#3054, @Monti#9504
-- **Portuguese:** @Walli#6665, @Erick#5598
+- **Italian:** @DannyBoy#3054, @Monti#9504 @kitty#2522
+- **Portuguese:** @Walli#6665, @Erick#5598 @kitty#2522
 
 ### Germanic Languages
 - **Dutch (Belgium):** @Monti#9504 
