@@ -8,7 +8,7 @@ People for Moderators to contact when they are disciplining someone with poor/no
 - **Hebrew:** @!Welsh#4498
 
 ### Romance Languages
-- **French:** @Moroccat#2142, @Monti#9504, @🍁 RollUpTheRim 🍁#6622, @Stranger
+- **French:** @Moroccat#2142, @Monti#9504, @🍁 RollUpTheRim 🍁#6622, @Stranger#5767 
 #5767
 - **Italian:** @DannyBoy#3054, @Monti#9504
 - **Portuguese:** @Walli#6665, @Erick#5598
