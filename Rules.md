@@ -92,11 +92,10 @@ Each channel functions like a 'category' on traditional internet forums. Only th
 
 **B4-4.** Excessive "memeing" (also known as "shitposting") is not allowed in the serious chats. Most channels are regarded as serious. The exceptions are channels such as "memes-and-shitposting", "adult", and the "voice-chat-text" channels. While being funny is not against the rules, please prevent the overuse of images in any of these serious chats. These are the places that people go when they are just coming into the server, so they need to be kept clean.
 
-
 ### B5. Posting explicit content
 Any discussions that are dark, crude, or explicit in nature (but do not involve posting pornography) must be posted in the "#memes-and-shitposting" channel.
 
- Any pornographic or 18+ content can _only_ be posted in the "#adult" channel. 
+Any pornographic or 18+ content can _only_ be posted in the "#adult" channel. 
 
 Content that is graphic or disturbing (such as gore) is prohibited entirely.
 
@@ -105,7 +104,6 @@ Any content that violates Discord's ToS or Community Guidelines is prohibited.
 
 ### B7. Advertising
 Advertising is repeatedly posting a link to a chat group/other service with the intent of garnering more members. Advertising is prohibited both on the server and in DMs, as it is against the Discord Terms of Service. The only time advertising in DMs is allowed is if the user receiving the message asked for the link beforehand. 
-
 
 ### B8. Use of English
 In all of the main chat channels except the "#other-languages" text channel and the "Other Languages" voice channel, English should be spoken. 
