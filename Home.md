@@ -13,7 +13,7 @@
 * [[German - Deutsch - Regeln|Regeln]]
 * [[Russian - русский - Правила|Правила]]
 * [[Hebrew - עִברִית - כללים|כללים]]
-* [[Persian - فارسی - قوانین]]
+* [[Persian - فارسی | فارسی---قوانین]]
 * [[French - Français - Règles|Règles]]
 
 ### Staff Listings
