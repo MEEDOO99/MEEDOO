@@ -50,6 +50,12 @@ A 'petition' is a vote initiated by a moderator to:
 * Motion to shorten someone's punishment
 * Motion to punish someone or get the general moderation team's opinion on something.
 
+### A7. Mom/Dad Rule
+
+You should favor using #contact-staff before dm'ing admins or moderators. However if you do need to dm them for privacy reasons, you should not go to another moderator/admin if they do not give you what you want. The one exception to this is if there is a serious staffing issue that needs to be resolved by an administrator. In every other situations, moderators have as much power as admins do.
+
+This rules is named after kids who, when they are denied something by one parent, run to the other parent to get them to agree behind the other's back.
+
 # **Section B - General Server Rules**
 These rules apply server-wide and can include but are not limited to text channels, voice channels, direct message, nicknames, playing status, etc...
 
