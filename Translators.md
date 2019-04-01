@@ -1,7 +1,7 @@
 People for Moderators to contact when they are disciplining someone with poor/no English fluency.
 
 ### Turkic Languages
-- **Turkish:** @quovit#6121, @Señor Sketch#5854, @Kurtok#4995
+- **Turkish:** @quovit#6121, @Señor Sketch#5854, @Kurtok#4995 @Shiwaity#3945
 
 ### Semitic Languages
 - **Arabic:** @Evilzero450#7712
