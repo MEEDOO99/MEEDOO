@@ -15,6 +15,7 @@
 * [[Hebrew - עִברִית - כללים|כללים]]
 * [[Persian - فارسی  - قوانین | قوانین]]
 * [[French - Français - Règles|Règles]]
+* [[Bengali - বাংলা - নিয়ম | নিয়ম]]
 
 ### Staff Listings
 
