@@ -84,6 +84,9 @@ Each channel functions like a 'category' on traditional internet forums. Only th
 
 **B4-3.** Heated debates should also be redirected to "#politics-and-debate".
 
+**B4-4.** Excessive "memeing" (also known as "shitposting") is not allowed in the serious chats. Most channels are regarded as serious. The exceptions are channels such as "memes-and-shitposting", "adult", and the "voice-chat-text" channels. While being funny is not against the rules, please prevent the overuse of images in any of these serious chats. These are the places that people go when they are just coming into the server, so they need to be kept clean.
+
+
 ### B5. Posting explicit content
 Any discussions that are dark, crude, or explicit in nature (but do not involve posting pornography) must be posted in the "#memes-and-shitposting" channel.
 
