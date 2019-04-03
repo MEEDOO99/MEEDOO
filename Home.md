@@ -16,6 +16,7 @@
 * [[Persian - فارسی  - قوانین | قوانین]]
 * [[French - Français - Règles|Règles]]
 * [[Bengali - বাংলা - বিধি | বিধি]]
+* [[Hindi - हिंदी - नियम | नियम]]
 
 ### Staff Listings
 
